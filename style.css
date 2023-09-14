@@ -1,0 +1,115 @@
+body {
+    font-family: 'Times New Roman';
+    font-size: 14px;
+}
+
+#logo {
+    font-family: 'Gill Sans';
+    color:blueviolet;
+    text-shadow: 2px 2px 2px #000;
+}
+
+.button{
+    background-color: pink;
+    border-color: deeppink;
+    border-radius: 25px;
+    color: purple;
+    font-family: 'Franklin Gothic Medium';
+}
+ul#link {
+    margin: 0;
+    padding: 0;
+}
+
+ul#link li {
+    list-style: none;
+    display: inline-block;
+    margin-right: 10px;
+}
+
+ul#link li a {
+    text-decoration: wavy;
+    padding : 10px 0;
+    color: crimson;
+    font-weight: bold;
+    font-family: Arial;
+    text-shadow: 2px 2px 2px #000;
+}
+
+ul#link li a:hover {
+    color: greenyellow;
+    border-bottom: 3px greenyellow;
+}
+
+
+.wwww table {
+    font-family: arial, sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+  }
+  
+.wwww td, th {
+    border: 1px solid #dddddd;
+    text-align: left;
+    padding: 8px;
+  }
+
+.wwww tr:nth-child(even) {
+    background-color: #dddddd;
+  }
+
+.wwww caption {
+    background-color: crimson;
+
+
+}
+
+.wwwww table {
+    font-family: arial, sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+  }
+  
+.wwwww td, th {
+    border: 1px solid #dddddd;
+    text-align: left;
+    padding: 8px;
+  }
+
+.wwwww tr:nth-child(even) {
+    background-color: #dddddd;
+  }
+
+.wwwww caption {
+    background-color: crimson;
+    
+
+}
+
+.r {
+  background-color: darkred;
+  border-color: black;
+  border-radius: 5px;
+}
+
+ul#gambar li.cover{
+  background-color: rebeccapurple;
+  background-position: center;
+}
+
+ul#gambar li:hover {
+  color: aqua;
+}
+
+
+
+
+
+
+
+
+//abaikan saja
+/div display flex: ;
+::content
+
+
